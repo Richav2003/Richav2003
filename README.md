@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Richav2003
+- 👀 I’m interested in proramming
+- 🌱 I’m currently learning web development
